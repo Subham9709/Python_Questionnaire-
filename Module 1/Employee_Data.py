@@ -1,12 +1,12 @@
-emp_name=input("Enter employee name= ")
-emp_designation=input("Enter employee designation= " )
+emp_name=input("Enter Employee Name= ")
+emp_designation=input("Enter Employee Designation= " )
 emp_age=int(input('Enter Employee Age = '))
-emp_gender=input('Enter employee gender = ')
-emp_salary=int(input('enter employee salary='))
+emp_gender=input('Enter Employee Gender = ')
+emp_salary=int(input('Enter Employee Salary='))
 
 print( "Name of Employee" , emp_name,
-      "Designation Of Employee" , emp_designation, 
-      "Age of employee" , emp_age , 
-      "Gender Of Employee" , emp_gender , 
-      "Salary Of Employee" , emp_salary ,end="\n" )
+      " \nDesignation Of Employee" , emp_designation, 
+      " \nAge of employee" , emp_age , 
+      " \nGender Of Employee" , emp_gender , 
+      " \nSalary Of Employee" , emp_salary ,end="\n" )
 
