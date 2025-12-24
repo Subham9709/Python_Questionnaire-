@@ -6,4 +6,4 @@ while n>0:
  sum = sum + digit
  n = n//10
  
-print("Sum Of Digits = " , sum) 
+print("Sum Of Digits = " , sum)
