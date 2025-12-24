@@ -1,3 +1,7 @@
+# Read a number. If the number is a single digit, then print its square. If
+#  the number is a double digit, then print the digits sum. If the number is
+# a triple digit, then print the digits product.
+
 n=int(input("Enter The Number = "))
 
 if n<9 :
