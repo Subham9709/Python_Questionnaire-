@@ -1,0 +1,6 @@
+a=str(input("Enter The String:- "))
+a.capitalize()
+a.count()
+a.isalnum()
+a.encode()
+a.islower()
