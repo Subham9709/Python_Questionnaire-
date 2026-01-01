@@ -1,0 +1,6 @@
+a=(1, 2, 3, 4, 5)
+print("Slicing:")
+print("Elements from index 1 to 3:", a[1:4])
+print("Elements from start to index 2:", a[:3])
+print("Elements from index 2 to end:", a[2:])
+print("Elements from start to end:", a[:])
